@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/第1章-SingleThreadedExecution" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第2章-Immutable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第3章-GuardedSuspension" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第4章-Balking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第5章-ProducerConsumer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
