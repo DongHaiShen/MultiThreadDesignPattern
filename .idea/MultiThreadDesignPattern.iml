@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/第4章-Balking" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第5章-ProducerConsumer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第6章-ReadWriteLock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第7章-ThreadPerMessage" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

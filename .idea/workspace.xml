@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b706b69c-e14c-423e-b70c-e9e7adda4f7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/序章1-Java线程/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/序章1-Java线程/知识整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第1章-SingleThreadedExecution/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第1章-SingleThreadedExecution/知识整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第2章-Immutable/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第2章-Immutable/知识整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-GuardedSuspension/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第3章-GuardedSuspension/知识整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第4章-Balking/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第4章-Balking/知识整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第5章-ProducerConsumer/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第5章-ProducerConsumer/知识整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第6章-ReadWriteLock/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第6章-ReadWriteLock/知识整理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,21 +15,42 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/Main.java">
+        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/AssignThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state>
+              <caret selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+              <folding>
+                <element signature="e#302#308#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/LazyThread.java">
+        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-189">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -77,19 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第3章-GuardedSuspension/P83_Request/RequestQueue.java" />
-        <option value="$PROJECT_DIR$/第3章-GuardedSuspension/P83_Request/ServerThread.java" />
-        <option value="$PROJECT_DIR$/第3章-GuardedSuspension/P97_TalkThread/Request.java" />
-        <option value="$PROJECT_DIR$/第3章-GuardedSuspension/P97_TalkThread/TalkThread.java" />
-        <option value="$PROJECT_DIR$/第3章-GuardedSuspension/P97_TalkThread/RequestQueue.java" />
-        <option value="$PROJECT_DIR$/第3章-GuardedSuspension/P97_TalkThread/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P100_SaveFile/SaverThread.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P100_SaveFile/ChangerThread.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P100_SaveFile/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P100_SaveFile/Data.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P109_Timeout/Host.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P109_Timeout/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/ChangerThread.java" />
         <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/Data.java" />
         <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/Main.java" />
         <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/SaverThread.java" />
@@ -128,6 +131,19 @@
         <option value="$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/Main.java" />
         <option value="$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/MakerThread.java" />
         <option value="$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/Table.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/Main.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/Data.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/ReadWriteLock.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/ReaderThread.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/WriterThread.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/Data.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/Main.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/ReaderThread.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/WriterThread.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/AssignThread.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Database.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Main.java" />
+        <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java" />
       </list>
     </option>
   </component>
@@ -144,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,19 +171,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552576633547" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnderstandingJVM" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552749782014" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Softwares/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,11 +201,11 @@
   </component>
   <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P133_Exchanger.Main" />
+      <option name="MAIN_CLASS_NAME" value="P143_ReadWrite.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P133_Exchanger.*" />
+          <option name="PATTERN" value="P143_ReadWrite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +214,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P138_Exe5_7_HeavyJob.Main" />
+      <option name="MAIN_CLASS_NAME" value="P155_ReentrantReadWriteLock.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P138_Exe5_7_HeavyJob.*" />
+          <option name="PATTERN" value="P155_ReentrantReadWriteLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +227,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P138_Exe5_8_Notify.Main" />
+      <option name="MAIN_CLASS_NAME" value="P159_Exe6_4_Database.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P138_Exe5_8_Notify.*" />
+          <option name="PATTERN" value="P159_Exe6_4_Database.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P116_Cake.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P138_Exe5_5_ClearTable.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P116_Cake.*" />
+          <option name="PATTERN" value="P138_Exe5_5_ClearTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,9 +269,8 @@
       <list>
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -288,17 +303,29 @@
       <workItem from="1552400003740" duration="677000" />
       <workItem from="1552458813736" duration="24000" />
       <workItem from="1552458956739" duration="62000" />
-      <workItem from="1552571864236" duration="2685000" />
+      <workItem from="1552571864236" duration="2883000" />
+      <workItem from="1552634741326" duration="1274000" />
+      <workItem from="1552722481084" duration="9000" />
+      <workItem from="1552722546094" duration="82000" />
+      <workItem from="1552723244424" duration="176000" />
+      <workItem from="1552723592288" duration="136000" />
+      <workItem from="1552724226025" duration="57000" />
+      <workItem from="1552724387076" duration="155000" />
+      <workItem from="1552724723704" duration="15000" />
+      <workItem from="1552724787066" duration="27000" />
+      <workItem from="1552724867107" duration="218000" />
+      <workItem from="1552725281402" duration="61000" />
+      <workItem from="1552746231021" duration="2667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38494000" />
+    <option name="totallyTimeSpent" value="43569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -307,7 +334,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29886687" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42492917" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,7 +342,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37818697" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29320112" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -333,126 +360,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14931">
-          <caret line="750" column="47" selection-start-line="750" selection-start-column="47" selection-end-line="750" selection-end-column="47" />
-          <folding>
-            <element signature="e#15414#15415#0" expanded="true" />
-            <element signature="e#15459#15460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7728">
-          <caret line="434" column="16" selection-start-line="434" selection-start-column="16" selection-end-line="434" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13818">
-          <caret line="703" column="63" selection-start-line="703" selection-start-column="58" selection-end-line="703" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="2484" column="7" selection-start-line="2484" selection-start-column="7" selection-end-line="2484" selection-end-column="7" />
-          <folding>
-            <element signature="e#99511#99512#0" expanded="true" />
-            <element signature="e#99546#99547#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="1136" column="18" selection-start-line="1136" selection-start-column="18" selection-end-line="1136" selection-end-column="18" />
-          <folding>
-            <element signature="e#44444#44445#0" expanded="true" />
-            <element signature="e#44501#44502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Semaphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="408" column="34" lean-forward="true" selection-start-line="408" selection-start-column="34" selection-end-line="408" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/序章1-Java线程/P28_Exe1_4/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P109_Timeout/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/ChangerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/SaverThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P109_Timeout/Host.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_2/ChangerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_2/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data.txt" />
     <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -656,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_5_ClearTable/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_7_HeavyJob/Host.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -702,10 +602,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/知识整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -713,6 +614,121 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-189">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_8_Notify/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/P138_Exe5_5_ClearTable/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章-Immutable/P62_PersonSample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/ReaderThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/WriterThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P143_ReadWrite/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/ReaderThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/WriterThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P155_ReentrantReadWriteLock/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/AssignThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <element signature="e#302#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
