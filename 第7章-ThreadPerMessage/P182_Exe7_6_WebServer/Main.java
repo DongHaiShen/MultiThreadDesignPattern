@@ -1,0 +1,18 @@
+package P182_Exe7_6_WebServer;
+
+import java.io.IOException;
+
+public class Main
+{
+    public static void main(String args[])
+    {
+        try
+        {
+            new MiniServer(8888).execute();
+        }
+        catch (IOException e)
+        {
+            e.printStackTrace();
+        }
+    }
+}

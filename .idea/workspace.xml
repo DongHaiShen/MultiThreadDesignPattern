@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b706b69c-e14c-423e-b70c-e9e7adda4f7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第1章-SingleThreadedExecution/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第1章-SingleThreadedExecution/知识整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章-Immutable/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第2章-Immutable/知识整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章-GuardedSuspension/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第3章-GuardedSuspension/知识整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章-Balking/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第4章-Balking/知识整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第5章-ProducerConsumer/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第5章-ProducerConsumer/知识整理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第6章-ReadWriteLock/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第6章-ReadWriteLock/知识整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第7章-ThreadPerMessage/知识整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/第7章-ThreadPerMessage/知识整理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,40 +23,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/AssignThread.java">
+        <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P184_Exe7_7_Blackhole/Blackhole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            <state relative-caret-position="-630">
+              <caret selection-end-column="30" />
               <folding>
-                <element signature="e#302#308#0" expanded="true" />
+                <element signature="e#395#798#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Main.java">
+        <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P184_Exe7_7_Blackhole/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="231">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -93,17 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/Data.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_1/SaverThread.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe_4_2_2/Data.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe_4_2_2/SaverThread.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe_4_2_2/ChangerThread.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe_4_2_2/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_2/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/LivenessException.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/Main.java" />
-        <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/Request.java" />
         <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/RequestQueue.java" />
         <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/TalkThread.java" />
         <option value="$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_2/LivenessException.java" />
@@ -144,6 +122,17 @@
         <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Database.java" />
         <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Main.java" />
         <option value="$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P164_Host/Helper.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P164_Host/Main.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P164_Host/Host.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P181_Exe7_5_GUI/Main.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P181_Exe7_5_GUI/MyFrame.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P181_Exe7_5_GUI/Service.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P182_Exe7_6_WebServer/Main.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P182_Exe7_6_WebServer/MiniServer.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P182_Exe7_6_WebServer/Service.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P184_Exe7_7_Blackhole/Blackhole.java" />
+        <option value="$PROJECT_DIR$/第7章-ThreadPerMessage/P184_Exe7_7_Blackhole/Main.java" />
       </list>
     </option>
   </component>
@@ -160,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,25 +157,29 @@
               <item name="MultiThreadDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThreadDesignPattern" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MultiThreadDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThreadDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="第7章-ThreadPerMessage" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552749782014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553006064944" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Softwares/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,13 +193,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P143_ReadWrite.Main" />
+      <option name="MAIN_CLASS_NAME" value="P184_Exe7_7_Blackhole.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P143_ReadWrite.*" />
+          <option name="PATTERN" value="P184_Exe7_7_Blackhole.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +208,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P155_ReentrantReadWriteLock.Main" />
+      <option name="MAIN_CLASS_NAME" value="P185_Exe7_8_Log.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P155_ReentrantReadWriteLock.*" />
+          <option name="PATTERN" value="P185_Exe7_8_Log.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P159_Exe6_4_Database.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P164_Host.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P159_Exe6_4_Database.*" />
+          <option name="PATTERN" value="P164_Host.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +234,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P138_Exe5_5_ClearTable.Main" />
+      <option name="MAIN_CLASS_NAME" value="P182_Exe7_6_WebServer.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P138_Exe5_5_ClearTable.*" />
+          <option name="PATTERN" value="P182_Exe7_6_WebServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +247,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P138_Exe5_5_ClearTable.Main" />
+      <option name="MAIN_CLASS_NAME" value="P181_Exe7_5_GUI.Main" />
       <module name="MultiThreadDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P138_Exe5_5_ClearTable.*" />
+          <option name="PATTERN" value="P181_Exe7_5_GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,10 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -315,17 +310,21 @@
       <workItem from="1552724787066" duration="27000" />
       <workItem from="1552724867107" duration="218000" />
       <workItem from="1552725281402" duration="61000" />
-      <workItem from="1552746231021" duration="2667000" />
+      <workItem from="1552746231021" duration="2963000" />
+      <workItem from="1552896756145" duration="12000" />
+      <workItem from="1552909352879" duration="2079000" />
+      <workItem from="1553003975722" duration="1998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43569000" />
+    <option name="totallyTimeSpent" value="47954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23592493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -334,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42492917" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +341,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29320112" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.8229462" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -360,94 +359,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data.txt" />
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_2/LivenessException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_2/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_2/TalkThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_2_2/SaverThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/TalkThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/LivenessException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/RequestQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_2/RequestQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#255#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第4章-Balking/P112_Exe4_4_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第5章-ProducerConsumer/知识整理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -718,17 +629,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/知识整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第6章-ReadWriteLock/P159_Exe6_4_Database/RetrieveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P164_Host/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第2章-Immutable/P77_PerformanceCmp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P164_Host/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P164_Host/Host.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#233#364#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P181_Exe7_5_GUI/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P181_Exe7_5_GUI/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#66#165#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P181_Exe7_5_GUI/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P182_Exe7_6_WebServer/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P182_Exe7_6_WebServer/MiniServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P182_Exe7_6_WebServer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P184_Exe7_7_Blackhole/Blackhole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret selection-end-column="30" />
+          <folding>
+            <element signature="e#395#798#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章-ThreadPerMessage/P184_Exe7_7_Blackhole/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
