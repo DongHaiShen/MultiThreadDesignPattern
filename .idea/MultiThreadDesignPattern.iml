@@ -13,6 +13,9 @@
       <sourceFolder url="file://$MODULE_DIR$/第6章-ReadWriteLock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第7章-ThreadPerMessage" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第8章-WorkerThread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第9章-Future" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第10章-TwoPhaseTermination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第11章-ThreadSpecificStorage" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
