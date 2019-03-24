@@ -16,6 +16,9 @@
       <sourceFolder url="file://$MODULE_DIR$/第9章-Future" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第10章-TwoPhaseTermination" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第11章-ThreadSpecificStorage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第12章-ActiveObject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第13章-总结多线程编程的模式语言" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/附录/附录B-Java内存模型" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
